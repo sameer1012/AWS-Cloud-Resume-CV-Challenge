@@ -1,7 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github\\workflows"
+    "\\.github",
+    "\\.github\\workflows",
+    "\\website",
+    "\\website\\assets",
+    "\\website\\vendor",
+    "\\website\\vendor\\typed"
   ],
+  "SelectedNode": "\\.github\\workflows\\front-end-CICD.yml",
   "PreviewInSolutionExplorer": false
 }
